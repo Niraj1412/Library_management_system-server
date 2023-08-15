@@ -1,5 +1,5 @@
 ﻿# Library_management_system-server
-This is a comprehensive Library Management System project developed using Django and React.
+This project is a comprehensive Library Management System developed using Django and React, hosted on PythonAnywhere, enabling efficient book and user management.
 
 # Client
 Here is the link to the Client repository of the project [https://github.com/Niraj1412/Library_management_system-client](https://github.com/Niraj1412/Library_management_system-client)
